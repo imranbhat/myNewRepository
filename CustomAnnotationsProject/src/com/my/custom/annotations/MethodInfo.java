@@ -17,6 +17,7 @@ public @interface MethodInfo {
     int revision() default 1;
     String comments();
     String myMetaData() default "Default Meta Data";
+    //just adding a comment
 }
 	
 
